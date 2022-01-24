@@ -6,7 +6,6 @@ CADDYIndexPage=https://www.iq.com
 CONFIGCADDY=https://mark.nl.tab.digital/s/erdANDc7iEDL2kc/download/Caddyfile
 CONFIGXRAY=https://mark.nl.tab.digital/s/52THkYkCgKnrDz8/download/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
-StoreFiles=https://mark.nl.tab.digital/s/wft5pPyx4p37j6E/download/StoreFiles
 Xray_Newv=`wget --no-check-certificate -qO- https://api.github.com/repos/XTLS/Xray-core/tags | grep 'name' | cut -d\" -f4 | head -1 | cut -b 2-`
 
 #PORT=4433
